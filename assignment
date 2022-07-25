@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>know more about me</title>
+</head>
+<body>
+    <img src="download.jfif" alt="This is my pic" width="95"
+    <form action=""><br><br>
+
+        <fieldset>
+            <legend><strong>CONTACT FORM</strong></legend><br>
+            <label for="">FULL NAME</label><br>
+            <input type="text" required> <br><br>
+            <label for="">EMAIL ADDRESS</label><br><br>
+            <input type="email" required> <br><br>
+            <label for="">PHONE NUMBER</label> <br><br>
+            <input type="tel"  placeholder="add your phone number"> <br><br>
+             <label>QUESTION</label><br>
+             <input type="text" placeholder="ask your questions here"><br><br>
+             <label>ADDITIONAL  MESSAGE</label><br><br>
+             <input type="text" placeholder="type your addtional messages  here"
+
+
+        </fieldset>
+</body>
+</html> 
